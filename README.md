@@ -81,7 +81,7 @@ sous contraintes
 ```
 
 Coût : `4*5 + 4*3 + 0*4 + 0*6 + 1*7 + 8*2 = 55`.
-
+![img.png](images/img.png)
 ---
 
 ## Exercice 3 : voyageur de commerce (TSP)
@@ -197,3 +197,6 @@ L = d(1,2) + d(2,3) + d(3,4) + d(4,5) + d(5,6) + d(6,7) + d(7,8) + d(8,1)
 ```
 
 Toutes ces routes existent : la tournée est valide, de longueur 103.
+![img_1.png](images/img_1.png)
+![img_2.png](images/img_2.png)
+![img_3.png](images/img_3.png)
