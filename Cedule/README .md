@@ -107,6 +107,7 @@ Vérification des réserves de cette cédule :
 La plus petite réserve est 25 MW, qui est la valeur affichée.
 
 ## Résultats
+![img.png](img.png)
 
 - **25 MW est l'optimum.** La puissance perdue sur l'année vaut 20x2 + 15x2 + 35 + 40 + 15 + 15 + 10 = 185 MW, donc la somme des quatre réserves est 4 x 150 - 185 - 305 = 110 MW, soit 27,5 MW en moyenne. Les valeurs étant des multiples de 5, la plus petite réserve ne peut pas dépasser 25. Un test de toutes les 9 216 cédules confirme que 43 d'entre elles atteignent 25.
 - **Fiabilité de l'AG.** Sur 30 exécutions avec des graines différentes (0 à 29), l'optimum de 25 MW est trouvé 29 fois, et la fitness moyenne finale est de 24,83 MW.
